@@ -49,8 +49,7 @@ if(isset($_GET['logout'])){
       <a href="home.php?logout=<?php echo $user_id; ?>" class="delete-btn">logout</a>
       <p>new <a href="login.php">login</a> or <a href="register.php">register</a></p>
    </div>
-
+<h2></h2>
 </div>
-
 </body>
 </html>
